@@ -10,16 +10,16 @@
 
 <!-- Social Links with Glowing Effect -->
 <p align="center">
-  <a href="https://linkedin.com/in/akhilesh112606">
+  <a href="https://linkedin.com/in/p-venkatesh1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://instagram.com/akhil_fsmb">
+  <a href="https://instagram.com/p.venkatesh_5090">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
-  <a href="https://youtube.com/@@code_with_akhil">
+  <a href="https://youtube.com/@pvenkatesh5806">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
   </a>
-  <a href="mailto:akhilesh112606@gmail.com">
+  <a href="mailto:p.venkatesh282675@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
 </p>
@@ -35,7 +35,7 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
-const akhilesh = {
+const venkatesh = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: "JUSTICE AI 🔭",
