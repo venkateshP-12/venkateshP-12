@@ -5,7 +5,6 @@
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+JUSTICE+AI+%F0%9F%9A%80;LeetCode+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Developer+%E2%9A%A1;System+Design+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
-
 <br>
 
 <!-- Social Links with Glowing Effect -->
